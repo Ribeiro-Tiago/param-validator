@@ -13,7 +13,7 @@
   "author": "Tiago Ribeiro - www.tiago-ribeiro.com",
   "license": "ISC",
   "dependencies": {
-    "utilities-js": "^1.0.7",
+    "utilities-js": "^1.0.7"
   },
   "bugs": {
     "url": "https://github.com/Ribeiro-Tiago/params-validator/issues"
