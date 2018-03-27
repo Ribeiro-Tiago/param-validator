@@ -5,5 +5,5 @@ Package that validates params function params
 only available for react native
 
 ## TODO
-add support for other platforms
-optimize
+- add support for other platforms
+- optimize
