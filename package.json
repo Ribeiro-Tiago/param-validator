@@ -1,0 +1,22 @@
+{
+  "name": "params-validator",
+  "version": "1.0.0",
+  "description": "Validates function parameteres and throws informative error when an argument isn't up to par, according to the validations. Uses my other package utilities-js for validation rules",
+  "main": "ParamValidator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/ribeiro-tiago/"
+  },
+  "author": "Tiago Ribeiro - www.tiago-ribeiro.com",
+  "license": "ISC",
+  "dependencies": {
+    "utilities-js": "^1.0.7",
+  },
+  "bugs": {
+    "url": "https://github.com/Ribeiro-Tiago/params-validator/issues"
+  },
+  "homepage": "https://github.com/Ribeiro-Tiago/params-validator#readme"
+}
